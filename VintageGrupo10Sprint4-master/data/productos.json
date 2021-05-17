@@ -1,0 +1,58 @@
+[
+ {
+  "name": "remera perla",
+  "price": "500",
+  "descuento": "3",
+  "id": "1",
+  "image": "grilla1.jpg"
+ },
+ {
+  "id": "2",
+  "name": "kimono",
+  "price": "600",
+  "image": "grilla2.jpg"
+ },
+ {
+  "id": "3",
+  "name": "vestido",
+  "price": "800",
+  "image": "grilla3.jpg"
+ },
+ {
+  "id": "4",
+  "name": "campera",
+  "price": "1600",
+  "image": "grilla4.jpg"
+ },
+ {
+  "id": "5",
+  "name": "enterito",
+  "price": "850",
+  "image": "grilla5.jpg"
+ },
+ {
+  "id": "6",
+  "name": "falda",
+  "price": "750",
+  "image": "grilla6.jpg"
+ },
+ {
+  "id": "7",
+  "name": "vestido crushe",
+  "price": "2500",
+  "image": "grilla7.jpg"
+ },
+ {
+  "id": "8",
+  "name": "pantalones",
+  "price": "1500",
+  "image": "grilla8.jpg"
+ },
+ {
+  "id": "9",
+  "name": "remeras",
+  "price": "650",
+  "image": "grilla9.jpg"
+ }
+
+]
